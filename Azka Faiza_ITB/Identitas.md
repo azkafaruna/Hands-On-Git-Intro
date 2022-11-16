@@ -1,4 +1,4 @@
-# First submission by Malik Akbar
+# First submission by Azka Faiza Aruna
 
 ## Screenshot
-![Screenshot](screenshot.png)
+![Screenshot](ss.png)
